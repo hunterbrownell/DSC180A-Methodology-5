@@ -1,4 +1,4 @@
-theme: Time Machine
+theme: Time machine
 plugins:
 - jekyll-remote-theme 
 
